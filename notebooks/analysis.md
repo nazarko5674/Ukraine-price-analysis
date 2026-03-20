@@ -1,0 +1,3 @@
+- Average price growth
+- Top products with highest increase
+- Year-over-year comparison
